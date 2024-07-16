@@ -1,1 +1,1 @@
-# Scrits to use on my kvm plan
+# Scripts to use on my kvm plan
